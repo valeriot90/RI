@@ -1,6 +1,6 @@
 ###############################################################
 # RI                                                          #
-# Project for course of Computer Networks (Reti Informatiche) #
+# Project for Computer Networks (Reti Informatiche) course    #
 #                                                             #
 # Academic code for academic purposes only.                   #
 ###############################################################
